@@ -1,0 +1,4 @@
+com\shami\Entity\Student.class
+com\shami\Controller\StudentController.class
+com\shami\Main.class
+com\shami\Service\StudentService.class
