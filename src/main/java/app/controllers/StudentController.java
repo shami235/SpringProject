@@ -1,12 +1,11 @@
-package com.shami.Controller;
+package app.controllers;
 
-import com.shami.Entity.Student;
-import com.shami.Service.StudentService;
+import app.models.Student;
+import app.services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-import java.awt.*;
 import java.util.Collection;
 
 @RestController

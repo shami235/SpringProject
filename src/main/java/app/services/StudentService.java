@@ -1,7 +1,7 @@
-package com.shami.Service;
+package app.services;
 
-import com.shami.Dao.IStudentDao;
-import com.shami.Entity.Student;
+import app.repositories.IStudentDao;
+import app.models.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

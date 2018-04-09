@@ -1,4 +1,4 @@
-package com.shami.Entity;
+package app.models;
 
 public class Student {
     private int id;

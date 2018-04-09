@@ -1,6 +1,6 @@
-package com.shami.Dao;
+package app.repositories;
 
-import com.shami.Entity.Student;
+import app.models.Student;
 
 import java.util.Collection;
 
